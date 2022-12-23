@@ -1,4 +1,4 @@
 #pragma once
 
-// n = 2000000, answer = 142913828922
-long long summation_of_primes(int n);
+// max = 1000, answer = 233168
+int multiples_of_3_or_5_solution(int max);
